@@ -7,7 +7,7 @@ When you run `cr` in a git repo, it finds the last Claude Code session associate
 ## Install
 
 ```
-pip install git+https://github.com/lieblius/cr.git
+uv tool install git+https://github.com/lieblius/cr.git
 ```
 
 ## Usage
